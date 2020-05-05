@@ -81,3 +81,151 @@
    81  history >> cat command.txt
    82  touch output.txt
    83  history >> output.txt
+    1  ansible --version
+    2  mkdir myproject-git
+    3  cd myproject-git
+    4  git --version
+    5  ls -ls
+    6  ls -la
+    7  git --version
+    8  git init
+    9  ls -la
+   10  cd .git
+   11  ls -la
+   12  cd ..
+   13  git config --global --list
+   14  git config --global user.name kuldeep
+   15  git config --gloab user.email itsdeep1209@outlook.com
+   16  git config --global user.email itsdeep1209@outlook.com
+   17  git config
+   18  git status
+   19  vim hello.txt
+   20  git status
+   21  git commit .
+   22  git commit 
+   23  git commit hello.txt
+   24  ls
+   25  git add .
+   26  git commit
+   27  git config --global core.editor=vi
+   28  git config --global core.editor=vim
+   29  git config --global core.editor = vim
+   30  git commit
+   31  git list
+   32  git config
+   33  git config -l
+   34  git config --global user.name itsdeep1209
+   35  ls
+   36  vim world.txt
+   37  git add .
+   38  git commit
+   39  git config --global core.editor=vi
+   40  git config --global core.editor= vi
+   41  git config --global core.editor = vi
+   42  git commit
+   43  git commit -m "new files"
+   44  history
+   45  git remote add-origin https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   46  git remote add origin https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   47  git push
+   48  git push --set-upstream master
+   49  git config --list
+   50  ls
+   51  git list
+   52  git push --set-upstream origin master
+   53  git push
+   54  git config --lit
+   55  git config --list
+   56  git config --global core.editor=vi
+   57  git config --global core.editor vi
+   58  git config --list
+   59  git config --global core.editor vi
+   60  git config --global --replace-all core.editor vi
+   61  git config --list
+   62  git remote remove origin https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   63  git remote remove https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   64  git remote delte https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   65  git remote remove https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   66  got config --list
+   67  git config --list
+   68  git remote remove remote.origin.fetch
+   69  git remote remove remote.origin
+   70  git remote remove origin https://github.com/amitvashisttech/devops-jenkins-acc-04May2020.git
+   71  git remote add origin https://github.com/itsdeep1209/myrepository
+   72  git remote remove origin
+   73  git remote add origin https://github.com/itsdeep1209/myrepository
+   74  git push --set-upstream origin master 
+   75  git pull 
+   76  git pull origin master
+   77  git push --set-upstream origin master 
+   78  history
+   79  history >> echo "command.txt"
+   80  history >> cat "command.txt"
+   81  history >> cat command.txt
+   82  touch output.txt
+   83  history >> output.txt
+   84  git push --set-upstream origin master 
+   85  git add .
+   86  git commit -m "new file"
+   87  git push --set-upstream origin master 
+   88  df -h
+   89  vagrant.exe
+   90  git branch demo-code
+   91  git checkout demo-code
+   92  ls
+   93  apt-get update; apt-get install default-jdk maven wget -y
+   94  cd
+   95  pwd
+   96  ls
+   97  wget http://mirrors.jenkins.io/war-stable/latest/jenkins.war
+   98  ls
+   99  java -jar jenkins.war -httpPort=9090 &
+  100  ip address
+  101  ifconfig
+  102  ipconfig
+  103  ip address
+  104  ps -ef | grep jenkins
+  105  netstat -tulnp
+  106  kill -9 13362
+  107  ps -ef | grep jenkins
+  108  java -jar jenkins.war --httpPort=9090 &
+  109  pwd
+  110  ls
+  111  cd myproject-git/
+  112  history
+  113  ls
+  114  cat echo
+  115  cat cat
+  116  touch jenkins.txt
+  117  ls
+  118  history >> jenkins.txt
+  119  cat jenkins.txt 
+  120  git .
+  121  git add .
+  122  git status
+  123  git commit -m "jenkins"
+  124  git push origin master
+  125  git pull origin master
+  126  git push origin master
+  127  ls
+  128  ls -ls
+  129  git status
+  130  git add jenkins.txt
+  131  git status
+  132  git log
+  133  history >> output.txt
+  134  cat output.txt 
+  135  git status
+  136  git add .
+  137  git status
+  138  git commit -m "update"
+  139  git branch
+  140  git branch master
+  141  git checkout master
+  142  git branch master
+  143  git branch
+  144  git commit -m "update"
+  145  git push -m origin master
+  146  git push origin master
+  147  ls
+  148  history >> output.txt
